@@ -28,10 +28,10 @@
 
 ## :school: About Me 
 - **Computer Science** major at **Arizona State University**, graduating **May 2025**  
-- **GPA: 4.0**; Dean’s List (Fall 2022, Spring 2023, Fall 2023, Spring 2024)  
-- **Undergraduate Teaching Assistant** & **Student Representative** at ASU  
-- **Frontend Developer Intern** at **AI Quotient, Inc.** (Capstone Project)  
-- Passionate about **web development**, **mobile apps**, and **AI**  
+- **GPA: 4.0**; Dean’s List (Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024)  
+- **Undergraduate Teaching Assistant** & **Student Representative** for Fulton Academic Integrity Matters at ASU  
+- **Frontend Developer Intern** at **AI Quotient, Inc.**
+- Passionate about **web development**, **mobile apps**, and **AI & ML**  
 
 ---
 
@@ -115,8 +115,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwin&layout=compact&theme=react&hide=css,html" alt="Top Languages"/>
 </a>
 
-<!-- GitHub Streak Stats (optional) -->
-<a href="https://git.io/streak-stats">
+<!-- GitHub Streak Stats (corrected URL) -->
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=sathwin&theme=react">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sathwin&theme=react" alt="Sathwin's Streak Stats"/>
 </a>
 
