@@ -22,7 +22,6 @@
   <a href="https://github.com/sathwin">
     <img src="https://img.shields.io/badge/GitHub-sathwin-lightgrey?style=flat&logo=github" />
   </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sathwin.sathwin" alt="visitor badge"/>
 </p>
 
 ---
