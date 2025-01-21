@@ -115,10 +115,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwin&layout=compact&theme=react&hide=css,html" alt="Top Languages"/>
 </a>
 
-<!-- GitHub Streak Stats (corrected URL) -->
+<!-- GitHub Streak Stats (corrected URL)
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=sathwin&theme=react">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sathwin&theme=react" alt="Sathwin's Streak Stats"/>
-</a>
+</a> -->
 
 </div>
 
