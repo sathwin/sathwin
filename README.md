@@ -133,3 +133,13 @@
   <i>Thank you for visiting my GitHub profile! Feel free to explore my repos or connect with me.</i><br/>
   <i>Let's build something amazing together!</i>
 </p>
+### ✍️ Random Dev Quote
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  
+</div>
+
+<p align="right" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=sathwin&style=plastic&label=Views">
+</p>
