@@ -118,3 +118,4 @@ export default function Hero() {
     </section>
   );
 }
+// Optimized animations
