@@ -396,3 +396,4 @@ export const experience: Experience[] = [
     ],
   },
 ];
+// Updated descriptions
