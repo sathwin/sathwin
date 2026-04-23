@@ -49,3 +49,4 @@ export default function StatCounter({ value, label, isStatic = false }: StatCoun
     </div>
   );
 }
+
