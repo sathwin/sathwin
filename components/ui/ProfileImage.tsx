@@ -44,3 +44,4 @@ export default function ProfileImage({ src = "/profile.jpg", alt, size = 200 }: 
     </motion.div>
   );
 }
+
