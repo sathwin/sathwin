@@ -39,3 +39,4 @@ export default function PillarCard({ label, color, techs }: PillarCardProps) {
     </div>
   );
 }
+
