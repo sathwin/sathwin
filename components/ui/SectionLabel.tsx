@@ -9,3 +9,4 @@ export default function SectionLabel({ children }: SectionLabelProps) {
     </div>
   );
 }
+
