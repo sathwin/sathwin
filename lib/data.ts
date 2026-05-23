@@ -188,7 +188,7 @@ export const projects: Project[] = [
 export const stackLayers: StackLayer[] = [
   {
     layer: "FRONTEND",
-    pills: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS", "WebSockets", "D3.js"],
+    pills: ["React", "Next.js", "TypeScript", "Tailwind CSS", "WebSockets"],
     color: "blue",
   },
   {
@@ -203,12 +203,12 @@ export const stackLayers: StackLayer[] = [
   },
   {
     layer: "CLOUD · INFRA",
-    pills: ["ECS/Fargate", "Lambda", "CloudFormation", "API Gateway", "Cognito", "KMS", "X-Ray", "SageMaker", "Bedrock"],
+    pills: ["ECS/Fargate", "Lambda", "CloudFormation", "API Gateway", "Cognito", "X-Ray", "SageMaker", "Bedrock"],
     color: "teal",
   },
   {
     layer: "DEVOPS",
-    pills: ["Docker", "Kubernetes", "GitHub Actions", "Prometheus", "Grafana", "MLflow", "W&B"],
+    pills: ["Docker", "Kubernetes", "GitHub Actions", "Grafana"],
     color: "teal",
   },
   {
