@@ -131,7 +131,7 @@ function ProjectCard({
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 mt-4 text-[13px] text-accent-blue hover:text-accent-blue/80 transition-colors"
           >
-            View Live Demo
+            Open Live App
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
               <polyline points="15 3 21 3 21 9" />

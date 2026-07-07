@@ -142,7 +142,7 @@ export const projects: Project[] = [
     infra: "Docker · MLflow · Grafana · ONNX · real-time Kafka multi-camera ingestion",
     metric: "94.7% mAP · real-time multi-camera detection",
     desc: "End-to-end real-time traffic intelligence. Kafka decouples bursty camera traffic from the inference API. Grafana caught a checkpoint degrading on nighttime footage that aggregate mAP had hidden.",
-    github: "https://github.com/sathwin/flowsight",
+    github: "https://github.com/sathwin/FlowSight",
     image: "/projects/flowsight.png",
   },
   {
@@ -155,7 +155,6 @@ export const projects: Project[] = [
     infra: "Bedrock · Lambda · Cognito · CloudFormation · X-Ray · C++ PDF parser",
     metric: "$3/page → <$0.01 · WCAG 2.1 · PHI compliant",
     desc: "PHI-compliant medical chatbot with real-time token streaming via WebSocket. FastAPI backend on ECS Fargate connected to AWS Bedrock for LLM inference. PDF accessibility pipeline rebuilt serverless with native C++ parser, reducing costs from $3 to under a penny per page.",
-    github: "https://github.com/sathwin/mediquery-ai",
     image: "/projects/mediquery.png",
   },
   {
@@ -167,7 +166,6 @@ export const projects: Project[] = [
     infra: "Hardhat · Ethereum · AMM Protocol · Liquidity Pools · Smart Contracts",
     metric: "AMM protocol · swap routing · slippage protection",
     desc: "Decentralized exchange protocol implementing automated market maker (AMM) with constant product formula. Built TypeScript/React frontend for wallet connection and swap execution. Deployed and tested on Hardhat network with comprehensive unit tests covering edge cases including slippage, price impact, and reentrancy protection.",
-    github: "https://github.com/sathwin/chainswap",
     image: "/projects/chainswap.png",
   },
   {
@@ -179,7 +177,6 @@ export const projects: Project[] = [
     infra: "JWT Authentication · REST API · Advanced Search · Database Optimization",
     metric: "35% faster retrieval · 25% query optimization",
     desc: "Full-stack library management system with React frontend and Node.js backend. Implemented advanced search and filtering improving retrieval efficiency by 35%. Optimized database schemas reducing query response time by 25%. Integrated JWT authentication for secure user management.",
-    github: "https://github.com/sathwin/booktrack",
     image: "/projects/booktrack.png",
   },
 ];
@@ -396,5 +393,4 @@ export const experience: Experience[] = [
     ],
   },
 ];
-// Updated descriptions
 

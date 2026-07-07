@@ -70,7 +70,7 @@ I write mostly in **Java, Python, and C++**, work primarily on **AWS**, and have
 
 ## Featured Projects
 
-### ⚡ [FlowSight — Real-Time Physical Environment Intelligence](https://github.com/sathwin)
+### ⚡ [FlowSight — Real-Time Physical Environment Intelligence](https://github.com/sathwin/FlowSight)
 > Multi-camera vehicle detection and tracking prototype for smart city traffic analysis
 
 Built a **Kafka-based event streaming pipeline** ingesting multi-camera video frames into a **FastAPI** backend on **AWS EC2**. Vehicle detection and tracking via **YOLOv8 + DeepSORT** (PyTorch/OpenCV), extracting counts, approximate speeds, and congestion anomalies from simulated streams. Containerized with **Docker**, experimented with **Kubernetes/EKS** for scaling, and wired **Prometheus + Grafana** dashboards to monitor inference latency and detection confidence over time.
@@ -79,7 +79,7 @@ Built a **Kafka-based event streaming pipeline** ingesting multi-camera video fr
 
 ---
 
-### ⚙️ [SmartQueue — Distributed Task Processing System](https://github.com/sathwin)
+### ⚙️ [SmartQueue — Distributed Task Processing System](https://github.com/sathwin/smartqueue)
 > Priority-scheduled distributed job queue with auto-scaling worker infrastructure
 
 Designed a **distributed backend** with **FastAPI** REST APIs and **Redis** queue state management. Implemented **C++ worker processes** with priority scheduling and retry logic. Deployed on **ECS** with **CloudWatch**-triggered auto-scaling and **Java**-based rate limiting to protect downstream services. CI/CD via **AWS CodePipeline + ECR** with WebSocket monitoring and SNS alerting.
@@ -88,7 +88,7 @@ Designed a **distributed backend** with **FastAPI** REST APIs and **Redis** queu
 
 ---
 
-### 🗂️ [LegalDocs AI — Serverless Document Backend](https://github.com/sathwin)
+### 🗂️ [LegalDocs AI — Serverless Document Backend](https://github.com/sathwin/legaldocs-ai)
 > Serverless event-driven document processing platform with multi-tenant auth
 
 Architected a serverless backend using **Lambda, Step Functions, Textract, and Bedrock**. Built a custom **Java** Lambda layer for PDF preprocessing exposed through **API Gateway**. Multi-tenant **FastAPI** backend on **ECS Fargate** with **Cognito** authentication, RBAC, and **KMS** encryption. Full infrastructure via **CloudFormation** nested stacks with **X-Ray** tracing and **CloudWatch** dashboards.
@@ -97,7 +97,7 @@ Architected a serverless backend using **Lambda, Step Functions, Textract, and B
 
 ---
 
-### 📄 [DocuMind AI — RAG Document Q&A System](https://github.com/sathwin)
+### 📄 DocuMind AI — RAG Document Q&A System
 > Natural language querying over PDFs, reports, and knowledge documents
 
 Built a full **RAG pipeline**: ingestion, chunking, embedding generation via **AWS Bedrock/OpenAI**, vector search with **FAISS/Pinecone**, top-k retrieval, and LLM-based response synthesis with source grounding. Hallucination evaluation and query caching included. Deployed with **FastAPI**, **AWS Lambda**, **S3**, **Docker**, and **GitHub Actions** CI/CD.
