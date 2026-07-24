@@ -326,15 +326,22 @@ export const certifications: Award[] = [
 // Experience timeline
 export const experience: Experience[] = [
   {
-    year: "Jun 2025 – May 2026",
-    company: "VariableAI",
-    role: "Software Engineer Intern",
-    bullets: [
-      "Built LLM document extraction pipeline processing thousands of documents monthly for 2 enterprise clients. Designed automated validation system reducing manual review by 60%+, enabling team to scale without additional headcount.",
-      "Implemented AI-driven RAG search using LangChain and vector embeddings, enabling natural language queries and context-aware responses over extracted document corpus.",
-      "Developed full-stack analytics dashboard (React + TypeScript, Node.js/Express). Improved query performance through PostgreSQL indexing and Redis caching, bringing response times under 500ms.",
-    ],
+    year: "Jul 2026 – Present",
+    company: "Cala Health",
+    role: "Full Stack Software Developer",
+    bullets: [],
   },
+  // Hidden - uncomment to restore
+  // {
+  //   year: "Jun 2025 – May 2026",
+  //   company: "VariableAI",
+  //   role: "Software Engineer Intern",
+  //   bullets: [
+  //     "Built LLM document extraction pipeline processing thousands of documents monthly for 2 enterprise clients. Designed automated validation system reducing manual review by 60%+, enabling team to scale without additional headcount.",
+  //     "Implemented AI-driven RAG search using LangChain and vector embeddings, enabling natural language queries and context-aware responses over extracted document corpus.",
+  //     "Developed full-stack analytics dashboard (React + TypeScript, Node.js/Express). Improved query performance through PostgreSQL indexing and Redis caching, bringing response times under 500ms.",
+  //   ],
+  // },
   {
     year: "Aug 2025 – May 2026",
     company: "AI Builder Club @ ASU",
