@@ -10,7 +10,7 @@
 
 **Backend Systems · Distributed Infrastructure · Physical AI & Sensor Fusion**
 
-Graduating May 2026 · Open to New Grad SWE roles
+Full Stack Software Developer @ Cala Health
 
 <br/>
 
@@ -40,10 +40,17 @@ I write mostly in **Java, Python, and C++**, work primarily on **AWS**, and have
     <th>Period</th>
   </tr>
   <tr>
+    <td>Full Stack Software Developer</td>
+    <td>Cala Health</td>
+    <td>Jul 2026 – Present</td>
+  </tr>
+  <!-- Hidden - uncomment to restore
+  <tr>
     <td>Software Development Intern</td>
     <td>VariableAI · AI Startup, Phoenix AZ</td>
     <td>Jun 2025 – Apr 2026</td>
   </tr>
+  -->
   <tr>
     <td>Software Development Engineer Intern</td>
     <td>AI Quotient, Inc.</td>
@@ -213,6 +220,6 @@ Built a full **RAG pipeline**: ingestion, chunking, embedding generation via **A
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
 
-<sub>Graduating May 2026 · Available for New Grad SWE roles · <a href="mailto:sjulaka7@asu.edu">sjulaka7@asu.edu</a></sub>
+<sub>Full Stack Software Developer @ Cala Health · <a href="mailto:sjulaka7@asu.edu">sjulaka7@asu.edu</a></sub>
 
 </div>
